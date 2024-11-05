@@ -61,7 +61,7 @@ module.exports = {
     },
     {
      name: 'Github',
-     link: 'https://github.com/dirac-deltaa'
+     link: 'https://github.com/dirac-deltaa',
     }
   ],
 
