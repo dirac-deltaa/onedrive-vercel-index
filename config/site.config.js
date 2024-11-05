@@ -58,6 +58,7 @@ module.exports = {
     {
       name: 'Google',
       link: 'google.com',
+    }
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
