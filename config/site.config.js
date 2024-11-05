@@ -17,7 +17,7 @@ module.exports = {
   kvPrefix: process.env.KV_PREFIX || '',
 
   // The name of your website. Present alongside your icon.
-  title: "dirac",
+  title: "Umang",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/Public',
@@ -45,13 +45,15 @@ module.exports = {
   protectedRoutes: ['/影视/加密', '/文件/加密', '/书籍/加密'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:',
+  email: 'mailto:dirac@587st7.onmicrosoft.com',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
   // you provide. See the documentation for details.
   links: [
     {
+      name: 'Youtube',
+      link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       name: 'Telegram',
       link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
     },
