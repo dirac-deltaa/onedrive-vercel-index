@@ -54,9 +54,14 @@ module.exports = {
     {
       name: 'Youtube',
       link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      name: 'Telegram',
-      link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
     },
+    {
+      name: 'Telegram',
+      link: 'https://t.me/diracd',
+    }
+    {
+     name: 'Github',
+     link: 'https://github.com/dirac-deltaa'  
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
