@@ -55,6 +55,9 @@ module.exports = {
       name: 'Youtube',
       link: 'https://youtu.be/5yeGhfL0zCU',
     },
+    {
+      name: 'Google',
+      link: 'google.com',
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
