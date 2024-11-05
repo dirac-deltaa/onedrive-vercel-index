@@ -52,7 +52,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'Telegram',
+      name: 'Youtube',
       link: 'https://youtu.be/5yeGhfL0zCU',
     },
   ],
