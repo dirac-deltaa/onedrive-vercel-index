@@ -53,7 +53,7 @@ module.exports = {
   links: [
     {
       name: 'Youtube',
-      link: 'https://youtu.be/5yeGhfL0zCU',
+      link: 'https://youtube.com',
     },
     {
       name: 'Google',
